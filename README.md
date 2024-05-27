@@ -8,7 +8,9 @@
   <img align="center" alt="Node.js" height="30" width="100" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="PHP" height="30" width="100" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Laravel" height="30" width="100" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
- <img align="center" alt="Vue.js" height="30" width="100" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img align="center" alt="Vue.js" height="30" width="100" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img align="center" alt="PostgreSQL" height="30" width="100" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="MongoDB" height="30" width="100" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
 <hr>
@@ -25,32 +27,3 @@ Este é o projeto **TabNews de Tecnologia**, um blog pessoal desenvolvido para c
 1. Clone este repositório em sua máquina local:
    ```bash
    git clone https://github.com/DiogoMeneses-stack/TabNews.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd tabnews-tecnologia
-   ```
-3. Instale as dependências necessárias utilizando o npm ou yarn:
-   ```bash
-   npm install
-   # ou
-   yarn install
-   ```
-4. Configure as variáveis de ambiente e as credenciais necessárias.
-5. Execute o aplicativo localmente com um servidor de desenvolvimento:
-   ```bash
-   npm start
-   # ou
-   yarn start
-   ```
-6. Acesse o aplicativo através do navegador em `http://localhost:3000` e comece a explorar e publicar artigos!
-
-## Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs ou novas funcionalidades.
-
-## Licença
-Este projeto está licenciado sob a Licença MIT.
-
----
-
-Espero que este projeto ajude a inspirar e informar a comunidade de tecnologia. Feliz codificação!
