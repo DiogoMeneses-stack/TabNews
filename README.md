@@ -24,7 +24,7 @@ Este é o projeto **TabNews de Tecnologia**, um blog pessoal desenvolvido para c
 ## Como Utilizar?
 1. Clone este repositório em sua máquina local:
    ```bash
-   git clone https://github.com/DiogoMeneses-stack/tabnews-tecnologia.git
+   git clone https://github.com/DiogoMeneses-stack/TabNews.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
